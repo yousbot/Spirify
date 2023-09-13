@@ -1,0 +1,3 @@
+# Elasticsearch configuration
+ELASTICSEARCH_PROD_URL = "https://<user>:<password>@<host>:<port>"
+ELASTICSEARCH_PROD_PORT = <port>

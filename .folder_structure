@@ -1,0 +1,33 @@
+IntellectualWave/
+├── app/
+│   ├── __init__.py             # Initialize your Flask app and bring together other components
+│   ├── main.py                 # Main application script to run
+│   ├── config.py.sample        # Sample configuration file
+│   ├── .config                 # Actual configuration file (ignored by git)
+│   ├── routes/                 # Folder to keep your Flask routes
+│   │   ├── __init__.py
+│   │   └── api.py
+│   ├── models/                 # Folder for Elasticsearch models
+│   │   ├── __init__.py
+│   │   ├── elasticsearch_base.py  # Base class for Elasticsearch interactions
+│   │   ├── lecture.py             # Lecture model
+│   │   ├── speaker.py             # Speaker model
+│   │   ├── album.py               # Album model
+│   │   └── playlist.py            # Playlist model
+│   ├── services/               # Business logic services
+│   │   ├── __init__.py
+│   │   └── lecture_service.py  # Example service for lecture-related logic
+│   └── utils/                  # Utility functions and classes
+│       └── __init__.py
+├── MediaScraper/               # Your existing MediaScraper folder
+│   ├── __init__.py
+│   ├── author_list.txt
+│   ├── scrapeOrganism.py
+│   └── transcripts/
+├── front/                      # Frontend folder (if applicable)
+│   ├── index.css
+│   └── index.html
+├── .gitignore                  # Git ignore file
+├── README.md                   # Project description and setup guide
+└── requirements.txt            # Python dependencies
+
