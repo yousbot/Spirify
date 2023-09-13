@@ -1,7 +1,6 @@
 # Intellectual Wave
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://travis-ci.com/username/projectname.svg?branch=master)](https://travis-ci.com/username/projectname)
 
 ## Table of Contents
 
@@ -22,7 +21,7 @@ Might take me a while ( a month perhaps ), since I work on it on my free time.
 
 - Backend: Python, Flask 
 - Frontend: React
-- Database: ElasticSearch
+- Database: ElasticSearch / redis
 - Cloud: AWS / heroku
 - ... not sure of anything else yet !
 
