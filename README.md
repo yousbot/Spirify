@@ -19,7 +19,7 @@ Might take me a while ( a month perhaps ), since I work on it on my free time.
 
 ## Technologies
 
-- Backend: Python, Flask 
+- Backend: Flask, React
 - Frontend: React
 - Database: ElasticSearch / redis
 - Cloud: AWS / heroku
