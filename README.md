@@ -1,4 +1,4 @@
-# Intellectual Wave
+# Spirify
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
@@ -11,7 +11,7 @@
 
 ## Overview
 
-Intellectual Wave is a free and open-source social media platform dedicated to fostering intellectual and meaningful conversations. The platform offers curated content from renowned intellectuals like Terence McKenna, Alan Watts, Timothy Leary, Aldous Huxley, and more. All content is transcribed in real-time, allowing users to engage in discussions based on lectures, interviews, and seminars from these great minds.
+Spirify is a free and open-source social media platform dedicated to fostering intellectual and meaningful conversations. The platform offers curated content from renowned intellectuals like Terence McKenna, Alan Watts, Timothy Leary, Aldous Huxley, and more. All content is transcribed in real-time, allowing users to engage in discussions based on lectures, interviews, and seminars from these great minds.
 
 ## Release
 
